@@ -3,7 +3,7 @@
 #sudo yum -y install git
 #git clone https://github.com/PegaChucho/migration2 /tmp/migration-noSSL
 #chmod +x /tmp/migration-noSSL/script.sh
-#sh /tmp/migration-noSSL/script.sh
+#sh /tmp/migration-SSL/script.sh
 
 #Se crea el grupo de usuarios
 sudo groupadd --system tomcat
